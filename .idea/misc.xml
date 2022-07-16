@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/box.xml" value="0.2075" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/button_desgn.xml" value="0.2265" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/ic_back.xml" value="0.2075" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2075" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/ic_mode.xml" value="0.2075" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/ic_pencil.xml" value="0.2075" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/pencil.xml" value="0.2535" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/drawable/tools_design.xml" value="0.2265" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/activity_color_picker.xml" value="0.264" />
-        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/activity_drawer.xml" value="0.176" />
-        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/activity_drawer.xml" value="0.264" />
+        <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/activity_main.xml" value="0.23408845738942827" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/alert.xml" value="0.20878623188405798" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/dialog.xml" value="0.20878623188405798" />
         <entry key="..\:/codeee/androidStd Pojects/ColourPicker/app/src/main/res/layout/view_display.xml" value="0.25416666666666665" />
