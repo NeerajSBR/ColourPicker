@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 colorPickerpage();
-                finish();
+
             }
         });
 
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 showDialog();
-                finish();
+
             }
         });
 
@@ -102,7 +102,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 showAlert();
-                finish();
             }
         });
     }
