@@ -176,10 +176,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setColor(Palette.Swatch swatch) {
-
         LinearLayout.LayoutParams param = new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.MATCH_PARENT, 1);
         param.setMargins(10,0, 10, 0);
-
         if(swatch != null) {
             int color = swatch.getRgb();
             int red = Color.red(color);
